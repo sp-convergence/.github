@@ -1,3 +1,5 @@
+![Logo](https://sp-convergence.org/wp-content/uploads/2021/11/cropped-Logotipo1-3.png)
+
 # Convergence Initiative
 
 - A joint effort by USP2030 members, governments, development partners, civil society and the private sector aimed at creating integrated and interoperable social protection information systems.
