@@ -41,9 +41,11 @@ You can participate by:
 
 ## How you can get involved:
 
-Send an email to mail@sp-convergence.org and follow us on:
+Check out our [website](https://spdci.org/),
+send an email to mail@sp-convergence.org and follow us on our social media networks on:
 
-- Web: www.spconvergence.org
-- LinkedIn: social-protectionconvergence-initiative
-- Twitter: @sp_convergence
-- Instagram: @sp_convergence
+- [LinkedIn](https://www.linkedin.com/company/digital-convergence-initiative)
+- [Twitter](https://twitter.com/sp_convergence)
+- [Instagram](https://www.instagram.com/sp_dci/)
+
+to stay tuned for our current and future activities.
